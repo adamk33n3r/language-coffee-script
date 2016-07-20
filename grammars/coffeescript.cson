@@ -12,16 +12,6 @@
   {
     'captures':
       '1':
-        'name': 'variable.parameter.function.coffee'
-      '2':
-        'name': 'storage.type.function.coffee'
-    'comment': 'match stuff like: a -> … '
-    'match': '(\\([^()]*?\\))\\s*([=-]>)'
-    'name': 'meta.inline.function.coffee'
-  }
-  {
-    'captures':
-      '1':
         'name': 'keyword.operator.new.coffee'
       '4':
         'name': 'storage.type.class.coffee'
