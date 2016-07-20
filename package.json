@@ -1,6 +1,6 @@
 {
   "version": "0.47.1",
-  "name": "language-coffee-script (tweaked)",
+  "name": "language-coffee-script-tweaked",
   "description": "CoffeeScript language support in Atom (tweaked)",
   "license": "MIT",
   "engines": {
